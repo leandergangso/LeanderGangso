@@ -1,3 +1,8 @@
+<!---
+https://shields.io/ for badges
+https://simpleicons.org/ for badge icon reference
+--->
+
 <p align='center'>
 <a href='https://www.leandergangso.no'><img src='https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png'></a>
 </p>
