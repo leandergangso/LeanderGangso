@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 style="text-align: center">Hi there 👋</h2>
 
-<!--
-**LeanderGangso/LeanderGangso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love programming, and creating software that can help and improve.  
+My current favorite language is: *`Python`* followed by *`C#`*.
 
-Here are some ideas to get you started:
+Love new problems as it makes me challenge myself to become a better programmer and developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me at:
+|Type | User ID|
+|---|---|
+|E-mail | leander.gangso98@gmail.com|
+|Telegram | [leandergan](https://web.telegram.org/#/im?p=@LeanderGan)|
+  
+
