@@ -1,6 +1,6 @@
 [![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png "Personal page")](https://leandergangso.no)
 
-<h3 align=center>Hi there 👋</h3>
+### Hi there 👋
 
 I love programming, and creating software that can help and improve.  
 My current favorite language is: *`Python`* followed by *`C#`*.
