@@ -1,14 +1,3 @@
-### 📫 Reach me at:
-
-|Type | User ID|
-|---|---|
-|E-mail | leander.gangso98@gmail.com|
-|Telegram | [leandergan](https://web.telegram.org/#/im?p=@LeanderGan)|
-  
-
-
-
-
 [![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png "Personal page")](https://leandergangso.no)
 
 <h3 align=center>Hi there 👋</h3>
