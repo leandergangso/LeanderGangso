@@ -19,7 +19,7 @@ https://simpleicons.org/ for badge icon reference
 I love programming, and creating software that can help and improve everyday life.
 
 > Problems and challenges is a way of improving oneself, to become a better problem solver.  
-Without problems to solve, I wouldn't have problems do fix. :\
+Without problems to solve, I wouldn't have a way to improve. :\
 
 #### My favorite's
 
