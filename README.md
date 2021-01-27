@@ -21,14 +21,6 @@ I love programming, and creating software that can help and improve everyday lif
 - Backend framework is *flask*.
 - Frontend framework is *vue.js*.
 
-#### Languages i have used:
-
-- PYTHON / C# / C++ / JAVA / JS / HTML / CSS / SQL
-
-#### Frameworks i have used:
-
-- FLASK / DJANGO / VUE.JS / ANGULAR / IONIC
-
 #### Technologies & Tools
 
 [![Python](https://img.shields.io/badge/Code-Python-yellow?logo=name&logoColor=white)](#)
