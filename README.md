@@ -28,19 +28,19 @@ I love programming, and creating software that can help and improve everyday lif
 
 #### Technologies & Tools
 
-[![Python](https://img.shields.io/badge/Code-Python-yellow?logo=name&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/Code-C%23-blueviolet?logo=name&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/Code-C++-blue?logo=name&logoColor=white)](#)
-[![JS](https://img.shields.io/badge/Code-JS-yellow?logo=name&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Code-Java-red?logo=name&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=name&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=name&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/Code-SQL-blue?logo=name&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/Code-C%23-blueviolet?logo=C-Sharp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/Code-C++-blue?logo=C%2B%2B&logoColor=white)](#)
+[![JS](https://img.shields.io/badge/Code-JS-yellow?logo=javascript&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/Code-SQL-blue?logo=mysql&logoColor=white)](#)
 
 [![Flask](https://img.shields.io/badge/Tool-Flask-black?logo=flask&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Tool-Django-success?logo=django&logoColor=white)](#)
-[![Vue](https://img.shields.io/badge/Tool-Vue-success?logo=vue&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Tool-Angular-red?logo=angular&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/Tool-VueJS-success?logo=Vue.js&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Tool-AngularJS-red?logo=angularJS&logoColor=white)](#)
 [![Ionic](https://img.shields.io/badge/Tool-Ionic-blue?logo=ionic&logoColor=white)](#)
 
 [![Operating system](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](#)
