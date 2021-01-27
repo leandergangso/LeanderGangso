@@ -1,4 +1,4 @@
-# [![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icon/banner.png "Personal page")](https://leandergangso.no)
+# [![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png "Personal page")](https://leandergangso.no)
 
 <h2 align=center>Hi there 👋</h2>
 
