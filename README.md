@@ -1,4 +1,19 @@
-[![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png "Personal page")](https://leandergangso.no)
+<p align='center'>
+<a href='https://www.leandergangso.no'><img src='https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner.png'></a>
+</p>
+
+<p align='center'>
+<a href='https://github.com/leandergangso'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='leandergangso.no'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://web.telegram.org/#/im?p=@LeanderGan'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='leander.gangso@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ### Hi there 👋
 
@@ -19,15 +34,6 @@ I love programming, and creating software that can help and improve everyday lif
 #### Frameworks i have used:
 
 - FLASK / DJANGO / VUE.JS / ANGULAR / IONIC
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' padding='10'>](https://github.com/leandergangso)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](leandergangso.no)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://web.telegram.org/#/im?p=@LeanderGan)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](leander.gangso@gmail.com)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=leandergangso)  
 
