@@ -5,7 +5,7 @@
 I love programming, and creating software that can help and improve.  
 My current favorite language is: *`Python`* followed by *`C#`*.
 
-> New problems and challanges is a way of improving myself and becomming a better programmer and developer.
+> Problems and challenges is a way of improving oneself, to become a better programmer.
 
 Languages:
 - PYTHON / C# / C++ / JAVA / JS / HTML / CSS / SQL
