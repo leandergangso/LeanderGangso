@@ -18,9 +18,10 @@ https://simpleicons.org/ for badge icon reference
 
 I love programming, and creating software that can help and improve everyday life.
 
-> Problems and challenges is a way of improving oneself, to become a better programmer.
+> Problems and challenges is a way of improving oneself, to become a better problem solver.  
+Without problems to solve, I wouldn't have problems do fix. :\
 
-#### My favorite...
+#### My favorite's
 
 - Programming language is *Python*.
 - Backend framework is *flask*.
