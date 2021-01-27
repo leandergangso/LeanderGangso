@@ -31,19 +31,25 @@ I love programming, and creating software that can help and improve everyday lif
 
 #### Technologies & Tools
 
-[![](https://img.shields.io/badge/OS-Linux-blue)]()
+[![Python](https://img.shields.io/badge/Code-Python-yellow?logo=name&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/Code-C%23-blueviolet?logo=name&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/Code-C++-blue?logo=name&logoColor=white)](#)
+[![JS](https://img.shields.io/badge/Code-JS-yellow?logo=name&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Code-Java-red?logo=name&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=name&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=name&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/Code-SQL-blue?logo=name&logoColor=white)](#)
 
+[![Flask](https://img.shields.io/badge/Tool-Flask-black?logo=flask&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Tool-Django-success?logo=django&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/Tool-Vue-success?logo=vue&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/Tool-Angular-red?logo=angular&logoColor=white)](#)
+[![Ionic](https://img.shields.io/badge/Tool-Ionic-blue?logo=ionic&logoColor=white)](#)
 
-|Languages|Frameworks|
-|-|-|
-|Python|Flask|
-|C#|Django|
-|C++|Vue.js|
-|Java|Angular|
-|HTML|Ionic|
-|CSS||
-|SQL||
-|JS||
+[![Operating system](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](#)
+[![Text editor](https://img.shields.io/badge/Editor-VS_Code-blue?logo=visual-studio-code&logoColor=white)](#)
+[![Terminal editor](https://img.shields.io/badge/Editor-Vim-success?logo=vim&logoColor=white)](#)
+[![Terminal type](https://img.shields.io/badge/Shell-Bash-success?logo=bash&logoColor=white)](#)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=leandergangso)  
 
