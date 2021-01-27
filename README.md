@@ -1,11 +1,14 @@
-<h2 style="text-align: center">Hi there 👋</h2>
+# [![leander gangso header](https://raw.githubusercontent.com/leandergangso/leandergangso/main/icon/banner.png "Personal page")](https://leandergangso.no)
+
+<h2 align=center>Hi there 👋</h2>
 
 I love programming, and creating software that can help and improve.  
 My current favorite language is: *`Python`* followed by *`C#`*.
 
-Love new problems as it makes me challenge myself to become a better programmer and developer.
+> New problems and challanges is a way of improving myself and becomming a better programmer and developer.
 
 ### 📫 Reach me at:
+
 |Type | User ID|
 |---|---|
 |E-mail | leander.gangso98@gmail.com|
