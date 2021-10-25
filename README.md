@@ -23,8 +23,10 @@ I love programming, and creating software that can help and improve everyday lif
 #### My favorite's
 
 - Programming language is *Python*.
-- Backend framework is *flask*.
-- Frontend framework is *vue.js*.
+- Backend framework is *Flask*.
+- Frontend framework is *VueJS*.
+- Database system is *MySql*.
+- Operating system is *Linux*. (currently running Fedora)
 
 #### Technologies & Tools
 
