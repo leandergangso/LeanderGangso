@@ -23,7 +23,6 @@ I love programming, and creating software that can help and improve everyday lif
 #### My favorite's
 
 - Programming language is *Golang*.
-- Backend framework is *None*.
 - Frontend framework is *Svelte 5*.
 - Database system is *PostgreSQL* & *SQLite*.
 - Operating system is *Linux*. (currently running Fedora)
