@@ -25,6 +25,6 @@ I love programming, and creating software that can help and improve everyday lif
 - Programming language is *Golang*.
 - Frontend framework is *Svelte 5*.
 - Database system is *PostgreSQL* & *SQLite*.
-- Operating system is *Linux*. (currently running Fedora)
+- Operating system is *Linux*. (currently running Arch BTW)
 - Whiteboard tool is *excalidraw*
-- Editor is *vscode* & *vim*
+- Editor is *neovim*
