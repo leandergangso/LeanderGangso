@@ -1,30 +1,22 @@
-<!---
-https://shields.io/ for badges
-https://simpleicons.org/ for badge icon reference
---->
+# Leander Gangsø 👋
 
-<!-- <p align='center'>
-<a href='https://www.leandergangso.no'><img src='https://raw.githubusercontent.com/leandergangso/leandergangso/main/icons/banner2.png'></a>
-</p> -->
+**Software & DevOps Engineer**
+Building lean, automated, and performant systems.
 
-<!-- <p align='center'>
-<a href='https://web.telegram.org/#/im?p=@LeanderGan'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='mailto:leander.gangso@gmail.com'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://www.leandergangso.no'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href='https://github.com/leandergangso'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
+---
 
-### Hi there 👋
+### 🛠 Favorite Tools
 
-I love programming, and creating software that can help and improve everyday life.
+* **Language** &nbsp; `Golang`
+* **Frontend** &nbsp; `Svelte 5` / `lit-html`
+* **Database** &nbsp; `PostgreSQL` / `SQLite`
+* **Infrastructure** &nbsp; `Docker|Podman` / `GitLab CI`
+* **Editor** &nbsp; `Neovim`
+* **OS** &nbsp; `Arch Linux` (btw)
 
-> Programming is a way to solve real life problems.
+---
 
-#### My favorite's
-
-- Programming language is *Golang*.
-- Frontend framework is *Svelte 5*.
-- Database system is *PostgreSQL* & *SQLite*.
-- Operating system is *Linux*. (currently running Arch BTW)
-- Whiteboard tool is *excalidraw*
-- Editor is *neovim*
+### 📬 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leander.gangso@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://leandergangso.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandergangso)
