@@ -8,11 +8,14 @@ Building lean, automated, and performant systems.
 ### 🛠 Favorite Tools
 
 * **Language** &nbsp; `Golang`
-* **Frontend** &nbsp; `Svelte 5` / `lit-html`
+* **Frontend** &nbsp; `Svelte 5` / `lit-html` / `Tailwind CSS`
 * **Database** &nbsp; `PostgreSQL` / `SQLite`
-* **Infrastructure** &nbsp; `Docker|Podman` / `GitLab CI`
+* **Infrastructure** &nbsp; `Docker|Podman` / `GitLab CI` / `Hetzner VPS`
+* **Environment** &nbsp; `Nix flakes`
+* **WM** &nbsp; `Sway (Wayland)`
+* **Terminal** &nbsp; `Kitty`
 * **Editor** &nbsp; `Neovim`
-* **OS** &nbsp; `Arch Linux` (btw)
+* **OS** &nbsp; `Arch Linux (btw)`
 
 ---
 
