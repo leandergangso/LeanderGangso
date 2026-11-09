@@ -7,7 +7,7 @@ Building lean, automated, and performant systems.
 
 ### 🛠 Favorite Tools
 
-* **Language** &nbsp; `Golang`
+* **Language** &nbsp; `Golang` / `Odin`
 * **Frontend** &nbsp; `Svelte 5` / `lit-html` / `Tailwind CSS`
 * **Database** &nbsp; `PostgreSQL` / `SQLite`
 * **Infrastructure** &nbsp; `Docker|Podman` / `GitLab CI` / `Hetzner VPS`
